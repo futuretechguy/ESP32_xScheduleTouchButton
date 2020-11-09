@@ -1,4 +1,4 @@
-# ESP32_xScheduleTouchButton
+# ESP32 xSchedule Touch Button
 
 This is the modified sketch for the xLights Capacitive Touch xScheduler interactive button build that shows how to construct a prop for engaging an audience, it  allows someone to manually move backward or forward through a music./light show sequence by pushing center or touching the ring of  "Back" or "Next" buttons. It also features a luminated EL display with instructions.
 
